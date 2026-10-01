@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="20" role="img" aria-label="Accesibilidad WCAG 2.2">
+  <title>Accesibilidad WCAG 2.2</title>
+  <g shape-rendering="crispEdges">
+    <rect width="149" height="20" fill="#0969da"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text x="745" y="140" textLength="1390" transform="scale(.1)">Accesibilidad WCAG 2.2</text>
+  </g>
+</svg>

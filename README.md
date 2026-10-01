@@ -34,7 +34,7 @@
   <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Accesibilidad" src="https://img.shields.io/badge/Accesibilidad_WCAG-0969DA?style=flat-square" />
+  <img alt="Accesibilidad" src="assets/badge-accesibilidad.svg" />
 </p>
 
 ---
