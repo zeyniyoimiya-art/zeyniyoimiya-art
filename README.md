@@ -25,7 +25,7 @@
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
   <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img alt="PWA" src="https://img.shields.io/badge/PWA_offline-5A0FC8?logo=pwa&logoColor=white&style=for-the-badge" />
+  <img alt="PWA" src="https://img.shields.io/badge/PWA_offline-5A0FC8?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
   <img alt="WebAssembly" src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img alt="Accesibilidad" src="https://img.shields.io/badge/Accesibilidad_WCAG-005A9C?logo=w3c&logoColor=white&style=flat-square" />
+  <img alt="Accesibilidad" src="https://img.shields.io/badge/Accesibilidad_WCAG-005A9C?style=flat-square" />
 </p>
 
 ---
