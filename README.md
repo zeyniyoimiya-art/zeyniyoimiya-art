@@ -58,6 +58,11 @@ Diseño la interfaz **antes** de programarla y la programo **sin plantillas**. M
 
 ## Proyectos en vivo
 
+### [ABISAL](https://zeyniyoimiya-art.github.io/abisal-museo-bioluminiscente/) — museo bioluminiscente de lo imposible 🌊
+
+Museo web inmersivo donde **hacer scroll es descender** de 0 a 11.000 m por las cinco zonas oceánicas. Ocho investigaciones completas ancladas a su profundidad temática, hero con shader GLSL de cáusticas y god-rays, plancton que huye del cursor, cursor-linterna que revela organismos, audio sintetizado con Web Audio (sin archivos) y **MODO SUPERFICIE** accesible. 100 % front-end, PWA offline.
+`React 19` · `Vite 7` · `WebGL + GLSL` · `GSAP` · `Tailwind v4` · `PWA offline` · `Vitest` · `GitHub Actions`
+
 ### [墨玥 MoYue](https://zeyniyoimiya-art.github.io/moyue-luxury-tech-blog/) — blog editorial de lujo
 
 Historia de la tecnología china, de los Cuatro Grandes Inventos a la IA. Luna de jade 3D con shaders de difusión de tinta, cursor de pincel caligráfico, globo interactivo de la Ruta de la Seda, jardín de contribuciones con bambú y ciruelo, ambiente de guzheng por Web Audio y PWA offline.
